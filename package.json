@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "nrs-common-types": "^1.0.5"
+  },
+  "publishConfig": {
+    "@gregorylavery:registry": "https://npm.pkg.github.com"
   }
 }
